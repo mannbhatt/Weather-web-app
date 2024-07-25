@@ -1,7 +1,6 @@
-# Weather-web-app
-using Next Js
+# Weather-web-app/Weather.io
 
-# Weather.io
+using Next Js
 
 Weather.io is a sleek, modern weather application built with Next.js and Tailwind CSS. It provides real-time weather information for any city, displaying current conditions, temperature, humidity, wind speed, and more. The application is designed to be responsive, offering a seamless experience on both desktop and mobile devices.
 
@@ -12,6 +11,11 @@ Weather.io is a sleek, modern weather application built with Next.js and Tailwin
 - **Dynamic Backgrounds**: Changes background based on current weather conditions.
 - **Weather Details**: Provides additional weather details such as humidity, wind speed, and rain levels.
 - **Search Functionality**: Allows users to search for weather information by city name.
+
+
+## Screenshots
+
+![Weather.io](path/to/screenshot.png)
 
 ## Getting Started
 
