@@ -15,7 +15,7 @@ Weather.io is a sleek, modern weather application built with Next.js and Tailwin
 
 ## Screenshots
 
-![Weather.io](path/to/screenshot.png)
+![Weather.io](output.png.png)
 
 ## Getting Started
 
